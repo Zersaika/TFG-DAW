@@ -1,0 +1,3 @@
+Esta incluido el proyecto en version war y el .war por si te apetece probarlo
+
+(El . war a veces no sube ciertas imagenes con formatos distintos)
